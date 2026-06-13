@@ -27,7 +27,13 @@ A simple and interactive Rock Paper Scissors game built using **HTML**, **CSS**,
    * Paper beats Rock
 4. Scores are updated automatically.
 
+## Screenshot
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/b2daa486-b7fa-4a5a-b930-1f182d432737" />
 
+
+## Live Demo
+
+https://ashish-dwivedi-code.github.io/RockPaperScissor-Game/
 
 ##  Author
 
